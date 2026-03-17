@@ -2,13 +2,15 @@
 
 A machine learning web app that predicts whether a telecom customer is likely to churn, built with **Streamlit** and **scikit-learn**.
 
-🔗 **Live Demo** → [your-app.streamlit.app](https://your-app.streamlit.app) *(update after deployment)*
+🔗 **Live Demo** → [https://customerchurnmodel.streamlit.app/](https://customerchurnmodel.streamlit.app/)
 
 ---
 
 ## 📸 Preview
 
-> Add a screenshot here after deployment!
+![img.png](img.png)
+
+![img_1.png](img_1.png)
 
 ---
 
@@ -71,16 +73,6 @@ streamlit run main.py
 ```
 
 Open your browser at → `http://localhost:8501`
-
----
-
-## ☁️ Deploy on Streamlit Cloud (Free)
-
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub → **Create app**
-4. Select your repo, branch `main`, file `app.py`
-5. Click **Deploy** ✅
 
 ---
 
